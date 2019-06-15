@@ -1,0 +1,18 @@
+body {
+    background-image: url(colores1.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: blue;
+    text-align: left;
+    cursor: pointer;
+}
+
+p {
+    color: #5C1C19;
+    font-size: 20px;
+}
+span {
+    font-size: 2em;
+}

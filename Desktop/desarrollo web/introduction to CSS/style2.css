@@ -1,0 +1,39 @@
+body {
+    background-image: url(colores1.jpg);
+    background-size: cover;
+}
+h2 {
+    color:red;
+    text-align: right;
+}
+
+p {
+    color: #450B08;
+    text-align: center;
+    border: 5px solid rgb(122, 53, 49);
+    cursor: pointer;
+}
+
+p {
+    color: #5C1C19;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline;
+    line-height: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 110;
+    text-align: center;
+    font-size: 
+
+}
+img {
+    float: left;
+}
+footer {
+    clear: both;
+    text-align: center;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
